@@ -1,0 +1,2 @@
+[requires]
+liburing/2.0
